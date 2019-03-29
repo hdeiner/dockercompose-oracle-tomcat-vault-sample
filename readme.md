@@ -50,7 +50,7 @@ In this example, we run the vault client from the Docker container itself.  Norm
 5. Run the test program (a Cucumber regression test).
 
 ```bash
-./build_destroy_integration_test_environment.sh
+./build_3_destroy_integration_test_environment.sh
 ```
 1. Tear down the containers we put together.
 
